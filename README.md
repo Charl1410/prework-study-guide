@@ -12,7 +12,7 @@ N/A
 
 Each section of the website contains key information about HTML, CSS, Javascript and Git. When inspecting the website and opening the console Javascript can be seen running there. All topics studied in the prework are listed and one will be chosen to study.
 
-##credits
+## Credits
 
 N/A
 
